@@ -60,7 +60,8 @@
 | CA-048 | Perch AI | [perchai.app](https://www.perchai.app/) | ✅ Active | 03 Sep 2026 |
 | CA-049 | Muse Code | [developer.meta.com/muse-code](https://developer.meta.com/ai/products/muse-code/) | ✅ Active | 06 Sep 2026 |
 | CA-050 | ExoHarness | [exoharness.ai](https://exoharness.ai/) | ✅ Active | 13 Sep 2026 |
+| CA-051 | nusacode | [nusacode.dev](https://nusacode.dev/) | ✅ Active | 14 Sep 2026 |
 
 ---
 
-*Total: 50 Coding Agents*
+*Total: 51 Coding Agents*
