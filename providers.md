@@ -153,6 +153,13 @@
 | P-141 | MiniMax Platform | ✅ | ❌ | $0 (free credits) | [platform.minimax.io](https://platform.minimax.io/) | ✅ Active | 14 Sep 2026 |
 | P-142 | ModelScope | ✅ | ❌ | $0 (free tier) | [modelscope.cn](https://modelscope.cn/) | ✅ Active | 14 Sep 2026 |
 | P-143 | NVIDIA NIM | ✅ | ❌ | $0 (free credits) | [build.nvidia.com](https://build.nvidia.com/) | ✅ Active | 14 Sep 2026 |
+| P-144 | Kagiro | ✅ | ❌ | Rp3.500 (10M token paket) | [kagiro.net](https://api.kagiro.net/) | ✅ Active | 14 Sep 2026 |
+| P-145 | ZytroAPI | ✅ | ❌ | Rp5.000 (kredit) | [zytroapi.my.id](https://ai.zytroapi.my.id/) | ✅ Active | 14 Sep 2026 |
+| P-146 | Moyra AI | ✅ | ❌ | Rp35.000 (100M token paket) | [moyra.my.id](https://api.moyra.my.id/) | ✅ Active | 14 Sep 2026 |
+| P-147 | Novera | ✅ | ❌ | $0 (pay-as-you-go) | [novera.web.id](https://api.novera.web.id/) | ✅ Active | 14 Sep 2026 |
+| P-148 | Bandel Banget | ✅ | ❌ | $0 (pay-as-you-go) | [bandelbanget.xyz](https://bandelbanget.xyz/) | ✅ Active | 14 Sep 2026 |
+| P-149 | Routr Cloud | ✅ | ❌ | $0 (pay-as-you-go) | [routr.cloud](https://api.routr.cloud/) | ✅ Active | 14 Sep 2026 |
+| P-150 | invibuilder | ✅ | ❌ | $0 (pay-as-you-go) | [invibuilder.com](https://api.invibuilder.com/) | ✅ Active | 14 Sep 2026 |
 
 ---
 
@@ -168,4 +175,4 @@
 
 ---
 
-*Total: 143 Providers*
+*Total: 150 Providers*
