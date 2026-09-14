@@ -121,6 +121,38 @@
 | P-109 | Vyce AI | ✅ | ❌ | $0 (free tier) | [vyceai.com](https://vyceai.com/) | ✅ Active | 07 Sep 2026 |
 | P-110 | Token Harbor | ✅ | ✅ | $0 (free credits) | [tokenharbor.ai](https://tokenharbor.ai/) | ✅ Active | 11 Sep 2026 |
 | P-111 | NusaRouter | ✅ | ❌ | $0 (pay-as-you-go) | [nusarouter.com](https://nusarouter.com/) | ✅ Active | 14 Sep 2026 |
+| P-112 | Cavoti AI | ✅ | ❌ | $0 (pay-as-you-go) | [cavoti.com](https://cavoti.com/) | ✅ Active | 14 Sep 2026 |
+| P-113 | zrouter | ✅ | ❌ | $1 (minimum top-up) | [zrouter.dev](https://zrouter.dev/) | ✅ Active | 14 Sep 2026 |
+| P-114 | Osiris | ✅ | ❌ | $0 (pay-as-you-go) | [osiris-code.com](https://osiris-code.com/) | ✅ Active | 14 Sep 2026 |
+| P-115 | llm-kita | ✅ | ❌ | $0 (pay-as-you-go) | [llm-kita.com](https://llm-kita.com/) | ✅ Active | 14 Sep 2026 |
+| P-116 | NexaRouter | ✅ | ❌ | $0 (pay-as-you-go) | [router.nexaworks.web.id](https://router.nexaworks.web.id/) | ✅ Active | 14 Sep 2026 |
+| P-117 | Guts AI | ✅ | ❌ | Rp10.000 (top up minimum) | [gutsai.id](https://gutsai.id/) | ✅ Active | 14 Sep 2026 |
+| P-118 | Dattio AI | ✅ | ❌ | $X (paket token) | [dattio.my.id](https://dattio.my.id/) | ✅ Active | 14 Sep 2026 |
+| P-119 | InxoraLabs | ✅ | ❌ | $0 (kredit) | [labs.inxorastudio.com](https://labs.inxorastudio.com/) | ✅ Active | 14 Sep 2026 |
+| P-120 | Solvatra AI | ✅ | ❌ | $0 (kredit) | [solvatra.web.id](https://solvatra.web.id/) | ✅ Active | 14 Sep 2026 |
+| P-121 | CEOWeb3 | ✅ | ❌ | $0 (free models) | [ceoweb3.dev](https://ceoweb3.dev/) | ✅ Active | 14 Sep 2026 |
+| P-122 | Fregateway | ✅ | ❌ | $0 (prepaid) | [fregateway.biz.id](https://fregateway.biz.id/) | ✅ Active | 14 Sep 2026 |
+| P-123 | SlashAI | ✅ | ❌ | $0 (pay-as-you-go) | [slashai.my.id](https://slashai.my.id/) | ✅ Active | 14 Sep 2026 |
+| P-124 | ON Token | ✅ | ❌ | Rp1.000 (top up minimum) | [ontoken.id](https://ontoken.id/) | ✅ Active | 14 Sep 2026 |
+| P-125 | KelontongAI | ✅ | ❌ | $X (Coin system) | [kelontongai.my.id](https://kelontongai.my.id/) | ✅ Active | 14 Sep 2026 |
+| P-126 | GateAI | ✅ | ❌ | $0 (pay-as-you-go) | [gateai.id](https://gateai.id/) | ✅ Active | 14 Sep 2026 |
+| P-127 | ExtPeak | ✅ | ❌ | $0 (pay-as-you-go) | [extpeak.com](https://extpeak.com/) | ✅ Active | 14 Sep 2026 |
+| P-128 | ThirtyStore | ✅ | ❌ | $X (kredit) | [thirtystore.com](https://thirtystore.com/) | ✅ Active | 14 Sep 2026 |
+| P-129 | Dahono Router | ✅ | ❌ | $0 (free tier) | [router.dahono.com](https://router.dahono.com/) | ✅ Active | 14 Sep 2026 |
+| P-130 | api.co.id | ✅ | ❌ | $0 (pay-as-you-go) | [api.co.id](https://api.co.id/) | ✅ Active | 14 Sep 2026 |
+| P-131 | HolverAI | ✅ | ❌ | $0 (pay-as-you-go) | [holver.id](https://holver.id/) | ✅ Active | 14 Sep 2026 |
+| P-132 | Unorouter | ✅ | ❌ | $0 (pay-as-you-go) | [unorouter.com](https://unorouter.com/) | ✅ Active | 14 Sep 2026 |
+| P-133 | UNIKEY | ✅ | ❌ | $0 (pay-as-you-go) | [getunikey.ai](https://getunikey.ai/) | ✅ Active | 14 Sep 2026 |
+| P-134 | Infron | ✅ | ❌ | $0 (free tier) | [infron.ai](https://infron.ai/) | ✅ Active | 14 Sep 2026 |
+| P-135 | Experiential Labs | ✅ | ❌ | $0 (free tier) | [experientiallabs.ai](https://experientiallabs.ai/) | ✅ Active | 14 Sep 2026 |
+| P-136 | Kie AI | ✅ | ❌ | $0 (pay-as-you-go) | [kie.ai](https://kie.ai/) | ✅ Active | 14 Sep 2026 |
+| P-137 | Agent Router | ✅ | ❌ | $0 (free tier) | [agentrouter.org](https://agentrouter.org/) | ✅ Active | 14 Sep 2026 |
+| P-138 | Vikey AI | ✅ | ❌ | $0 (pay-as-you-go) | [vikey.ai](https://vikey.ai/) | ✅ Active | 14 Sep 2026 |
+| P-139 | Kira AI | ✅ | ❌ | $0 (pay-as-you-go) | [kiraai.vn](https://kiraai.vn/) | ✅ Active | 14 Sep 2026 |
+| P-140 | RouteOpen | ✅ | ❌ | $0 (pay-as-you-go) | [hashneuron.space](https://hashneuron.space/) | ✅ Active | 14 Sep 2026 |
+| P-141 | MiniMax Platform | ✅ | ❌ | $0 (free credits) | [platform.minimax.io](https://platform.minimax.io/) | ✅ Active | 14 Sep 2026 |
+| P-142 | ModelScope | ✅ | ❌ | $0 (free tier) | [modelscope.cn](https://modelscope.cn/) | ✅ Active | 14 Sep 2026 |
+| P-143 | NVIDIA NIM | ✅ | ❌ | $0 (free credits) | [build.nvidia.com](https://build.nvidia.com/) | ✅ Active | 14 Sep 2026 |
 
 ---
 
@@ -136,4 +168,4 @@
 
 ---
 
-*Total: 111 Providers*
+*Total: 143 Providers*
