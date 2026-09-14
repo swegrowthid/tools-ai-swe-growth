@@ -120,6 +120,7 @@
 | P-108 | APInex | ✅ | ❌ | $0 (free models) | [apinex.bond](https://apinex.bond/) | ✅ Active | 07 Sep 2026 |
 | P-109 | Vyce AI | ✅ | ❌ | $0 (free tier) | [vyceai.com](https://vyceai.com/) | ✅ Active | 07 Sep 2026 |
 | P-110 | Token Harbor | ✅ | ✅ | $0 (free credits) | [tokenharbor.ai](https://tokenharbor.ai/) | ✅ Active | 11 Sep 2026 |
+| P-111 | NusaRouter | ✅ | ❌ | $0 (pay-as-you-go) | [nusarouter.com](https://nusarouter.com/) | ✅ Active | 14 Sep 2026 |
 
 ---
 
@@ -135,4 +136,4 @@
 
 ---
 
-*Total: 110 Providers*
+*Total: 111 Providers*
