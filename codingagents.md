@@ -61,7 +61,8 @@
 | CA-049 | Muse Code | [developer.meta.com/muse-code](https://developer.meta.com/ai/products/muse-code/) | ✅ Active | 06 Sep 2026 |
 | CA-050 | ExoHarness | [exoharness.ai](https://exoharness.ai/) | ✅ Active | 13 Sep 2026 |
 | CA-051 | nusacode | [nusacode.dev](https://nusacode.dev/) | ✅ Active | 14 Sep 2026 |
+| CA-052 | Crabcode | [crabcode.rs](https://crabcode.rs/) | ✅ Active | 15 Sep 2026 |
 
 ---
 
-*Total: 51 Coding Agents*
+*Total: 52 Coding Agents*
