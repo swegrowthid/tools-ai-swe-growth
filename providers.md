@@ -161,6 +161,7 @@
 | P-149 | Routr Cloud | ✅ | ❌ | $0 (pay-as-you-go) | [routr.cloud](https://api.routr.cloud/) | ✅ Active | 14 Sep 2026 |
 | P-150 | invibuilder | ✅ | ❌ | $0 (pay-as-you-go) | [invibuilder.com](https://api.invibuilder.com/) | ✅ Active | 14 Sep 2026 |
 | P-151 | Ruvicode | ✅ | ❌ | $0.01 (minimum deposit) | [ruvicode.com](https://ruvicode.com/) | ✅ Active | 15 Sep 2026 |
+| P-152 | VLEEE | ✅ | ❌ | $X (paket token redeem) | [dash.vleee.net](https://dash.vleee.net/) | ✅ Active | 15 Sep 2026 |
 
 ---
 
@@ -176,4 +177,4 @@
 
 ---
 
-*Total: 151 Providers*
+*Total: 152 Providers*
