@@ -163,6 +163,7 @@
 | P-151 | Ruvicode | ✅ | ❌ | $0.01 (minimum deposit) | [ruvicode.com](https://ruvicode.com/) | ✅ Active | 15 Sep 2026 |
 | P-152 | VLEEE | ✅ | ❌ | $X (paket token redeem) | [dash.vleee.net](https://dash.vleee.net/) | ✅ Active | 15 Sep 2026 |
 | P-153 | HematToken | ✅ | ✅ | Rp10.000/mo (langganan) | [hemattoken.id](https://hemattoken.id/) | ✅ Active | 16 Sep 2026 |
+| P-154 | Synthetic | ✅ | ✅ | $30/mo (subscribe) | [synthetic.new](https://synthetic.new/) | ✅ Active | 16 Sep 2026 |
 
 ---
 
@@ -178,4 +179,4 @@
 
 ---
 
-*Total: 153 Providers*
+*Total: 154 Providers*
