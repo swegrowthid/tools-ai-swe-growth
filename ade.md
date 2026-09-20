@@ -53,7 +53,8 @@
 | ADE-041 | Padu | Native desktop app (Rust/GPUI), Multi-agent orchestration (Amp/Claude Code/Codex/Cursor/Fx/Grok/Kimi/OpenCode/Pi), Unified workspace, Queue & steer, Git-backed rewind, Daemon architecture, Web client, Local-first | [github.com/wisnuwiry/padu](https://github.com/wisnuwiry/padu) | ✅ Active | 06 Sep 2026 |
 | ADE-042 | Realm | One workspace for every coding agent, Native Mac app (Apple Silicon), Multi-agent support | [realm.computer](https://realm.computer/) | ✅ Active | 11 Sep 2026 |
 | ADE-043 | Cube | Cloud Linux computer for coding agents, Git worktree isolation per agent, Multi-pane terminal, Spatial canvas for agent sessions, Mac app with session sidebar | [cube.computer](https://cube.computer/) | ✅ Active | 18 Sep 2026 |
+| ADE-044 | Poracode | Universal orchestrator for AI coding agents, Multi-agent support (~30 via ACP Registry), TUI + GUI threads side-by-side, Built-in MCP servers & Crossagents delegation, Agent experiments with AI judge, In-app PRs & scheduled runs, Desktop + Web app, Free & open source | [poracode.com](https://poracode.com/) | ✅ Active | 20 Sep 2026 |
 
 ---
 
-*Total: 43 ADE*
+*Total: 44 ADE*
