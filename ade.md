@@ -55,7 +55,8 @@
 | ADE-043 | Cube | Cloud Linux computer for coding agents, Git worktree isolation per agent, Multi-pane terminal, Spatial canvas for agent sessions, Mac app with session sidebar | [cube.computer](https://cube.computer/) | ✅ Active | 18 Sep 2026 |
 | ADE-044 | Poracode | Universal orchestrator for AI coding agents, Multi-agent support (~30 via ACP Registry), TUI + GUI threads side-by-side, Built-in MCP servers & Crossagents delegation, Agent experiments with AI judge, In-app PRs & scheduled runs, Desktop + Web app, Free & open source | [poracode.com](https://poracode.com/) | ✅ Active | 20 Sep 2026 |
 | ADE-045 | Cloud Harness MCP | Remote sandboxed execution environment for coding agents, 52+ MCP tools (shell PTY, patches, LSP symbols, worktrees, git push), Non-root Docker sandboxes, Zero credential leaks (stdin-only GitHub tokens), Self-host VPS or managed cloud, MIT licensed | [harness.agentkit.best](https://harness.agentkit.best/) | ✅ Active | 22 Sep 2026 |
+| ADE-046 | VelaTerm | Dev environment for terminals & coding agents, Recursive split panes (shells + agents in one window), Session tree with live status tracking, 9 first-class agents (Claude Code/Codex/Cursor/OpenCode/Copilot/Antigravity/Cline/Pi/Crush), vopen file tabs with WYSIWYG Markdown, SSH + E2EE remote browser access, Mobile touch layout, Native Tauri 2 (macOS/Linux/Windows) | [velaterm.com](https://velaterm.com/) | ✅ Active | 23 Sep 2026 |
 
 ---
 
-*Total: 45 ADE*
+*Total: 46 ADE*

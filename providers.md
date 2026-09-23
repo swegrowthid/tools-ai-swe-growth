@@ -164,6 +164,7 @@
 | P-152 | VLEEE | ✅ | ❌ | $X (paket token redeem) | [dash.vleee.net](https://dash.vleee.net/) | ✅ Active | 15 Sep 2026 |
 | P-153 | HematToken | ✅ | ✅ | Rp10.000/mo (langganan) | [hemattoken.id](https://hemattoken.id/) | ✅ Active | 16 Sep 2026 |
 | P-154 | Synthetic | ✅ | ✅ | $30/mo (subscribe) | [synthetic.new](https://synthetic.new/) | ✅ Active | 16 Sep 2026 |
+| P-155 | FriendliAI | ✅ | ❌ | $0 (pay-as-you-go) | [friendli.ai](https://friendli.ai/) | ✅ Active | 23 Sep 2026 |
 
 ---
 
@@ -179,4 +180,4 @@
 
 ---
 
-*Total: 154 Providers*
+*Total: 155 Providers*
