@@ -25,7 +25,6 @@
 | P-013 | Kilo | ✅ | ❌ | $0 (pay-as-you-go) | [kilo.ai](https://kilo.ai) | ✅ Active | 21 Jul 2026 |
 | P-014 | Amp | ✅ | ✅ | $20/mo (Megawatt) | [ampcode.com](https://ampcode.com) | ✅ Active | 21 Jul 2026 |
 | P-015 | ClinePass | ❌ | ✅ | $4.99/mo (promo) | [cline.bot/cline-pass](https://cline.bot/cline-pass) | ✅ Active | 21 Jul 2026 |
-| P-016 | Zyloo | ✅ | ❌ | $0 (pay-as-you-go) | [zyloo.io](https://zyloo.io/id) | ✅ Active | 21 Jul 2026 |
 | P-017 | CommandCode | ❌ | ✅ | $0 (Free tier) | [commandcode.ai](https://commandcode.ai) | ✅ Active | 21 Jul 2026 |
 | P-018 | xAI | ✅ | ❌ | $0 (pay-as-you-go) | [x.ai](https://x.ai) | ✅ Active | 21 Jul 2026 |
 | P-019 | Augment Code | ✅ | ✅ | $100/mo (Business) | [augmentcode.com](https://www.augmentcode.com) | ✅ Active | 22 Jul 2026 |
@@ -132,7 +131,6 @@
 | P-120 | Solvatra AI | ✅ | ❌ | $0 (kredit) | [solvatra.web.id](https://solvatra.web.id/) | ✅ Active | 14 Sep 2026 |
 | P-121 | CEOWeb3 | ✅ | ❌ | $0 (free models) | [ceoweb3.dev](https://ceoweb3.dev/) | ✅ Active | 14 Sep 2026 |
 | P-122 | Fregateway | ✅ | ❌ | $0 (prepaid) | [fregateway.biz.id](https://fregateway.biz.id/) | ✅ Active | 14 Sep 2026 |
-| P-123 | SlashAI | ✅ | ❌ | $0 (pay-as-you-go) | [slashai.my.id](https://slashai.my.id/) | ✅ Active | 14 Sep 2026 |
 | P-124 | ON Token | ✅ | ❌ | Rp1.000 (top up minimum) | [ontoken.id](https://ontoken.id/) | ✅ Active | 14 Sep 2026 |
 | P-125 | KelontongAI | ✅ | ❌ | $X (Coin system) | [kelontongai.my.id](https://kelontongai.my.id/) | ✅ Active | 14 Sep 2026 |
 | P-126 | GateAI | ✅ | ❌ | $0 (pay-as-you-go) | [gateai.id](https://gateai.id/) | ✅ Active | 14 Sep 2026 |
@@ -158,7 +156,7 @@
 | P-146 | Moyra AI | ✅ | ❌ | Rp35.000 (100M token paket) | [moyra.my.id](https://api.moyra.my.id/) | ✅ Active | 14 Sep 2026 |
 | P-147 | Novera | ✅ | ❌ | $0 (pay-as-you-go) | [novera.web.id](https://api.novera.web.id/) | ✅ Active | 14 Sep 2026 |
 | P-148 | Bandel Banget | ✅ | ❌ | $0 (pay-as-you-go) | [bandelbanget.xyz](https://bandelbanget.xyz/) | ✅ Active | 14 Sep 2026 |
-| P-149 | Routr Cloud | ✅ | ❌ | $0 (pay-as-you-go) | [routr.cloud](https://api.routr.cloud/) | ✅ Active | 14 Sep 2026 |
+| P-149 | Routr Cloud | ✅ | ❌ | $0 (pay-as-you-go) | [routr.cloud](https://routr.cloud/) | ✅ Active | 14 Sep 2026 |
 | P-150 | invibuilder | ✅ | ❌ | $0 (pay-as-you-go) | [invibuilder.com](https://api.invibuilder.com/) | ✅ Active | 14 Sep 2026 |
 | P-151 | Ruvicode | ✅ | ❌ | $0.01 (minimum deposit) | [ruvicode.com](https://ruvicode.com/) | ✅ Active | 15 Sep 2026 |
 | P-152 | VLEEE | ✅ | ❌ | $X (paket token redeem) | [dash.vleee.net](https://dash.vleee.net/) | ✅ Active | 15 Sep 2026 |
@@ -180,4 +178,4 @@
 
 ---
 
-*Total: 155 Providers*
+*Total: 153 Providers*
