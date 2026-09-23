@@ -62,7 +62,8 @@
 | CA-050 | ExoHarness | [exoharness.ai](https://exoharness.ai/) | ✅ Active | 13 Sep 2026 |
 | CA-051 | nusacode | [nusacode.dev](https://nusacode.dev/) | ✅ Active | 14 Sep 2026 |
 | CA-052 | Crabcode | [crabcode.rs](https://crabcode.rs/) | ✅ Active | 15 Sep 2026 |
+| CA-053 | Unreal Agent | [unreallabs.ai](https://unreallabs.ai/) | ✅ Active | 23 Sep 2026 |
 
 ---
 
-*Total: 52 Coding Agents*
+*Total: 53 Coding Agents*
