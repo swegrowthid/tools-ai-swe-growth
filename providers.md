@@ -163,6 +163,7 @@
 | P-153 | HematToken | ✅ | ✅ | Rp10.000/mo (langganan) | [hemattoken.id](https://hemattoken.id/) | ✅ Active | 16 Sep 2026 |
 | P-154 | Synthetic | ✅ | ✅ | $30/mo (subscribe) | [synthetic.new](https://synthetic.new/) | ✅ Active | 16 Sep 2026 |
 | P-155 | FriendliAI | ✅ | ❌ | $0 (pay-as-you-go) | [friendli.ai](https://friendli.ai/) | ✅ Active | 23 Sep 2026 |
+| P-156 | Isoquant | ✅ | ❌ | $0 (pay-as-you-go) | [isoquant.ai](https://isoquant.ai/) | ✅ Active | 25 Sep 2026 |
 
 ---
 
@@ -178,4 +179,4 @@
 
 ---
 
-*Total: 153 Providers*
+*Total: 154 Providers*
