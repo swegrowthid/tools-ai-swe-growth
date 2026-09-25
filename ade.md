@@ -58,7 +58,8 @@
 | ADE-046 | VelaTerm | Dev environment for terminals & coding agents, Recursive split panes (shells + agents in one window), Session tree with live status tracking, 9 first-class agents (Claude Code/Codex/Cursor/OpenCode/Copilot/Antigravity/Cline/Pi/Crush), vopen file tabs with WYSIWYG Markdown, SSH + E2EE remote browser access, Mobile touch layout, Native Tauri 2 (macOS/Linux/Windows) | [velaterm.com](https://velaterm.com/) | ✅ Active | 23 Sep 2026 |
 | ADE-047 | AionUi | Desktop GUI for 20+ coding agents (Claude Code/Gemini CLI/Codex/OpenCode/Goose via ACP & MCP), Multi-agent teams with leader/teammate delegation, Scheduled agent tasks, File & office-document workspace (PPTX/DOCX/XLSX/PDF), Remote WebUI + Telegram/Lark/DingTalk/WeChat integration, Electron + Rust core, Apache-2.0 | [github.com/iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | ✅ Active | 23 Sep 2026 |
 | ADE-048 | Zuse | Open-source desktop workspace for coding agents, 8 first-class agents (Claude Code/Codex/Cursor/Gemini/Grok/OpenCode/Kiro/Pi), Git worktree isolation per task, Persistent sessions with diffs/terminal/checks/PR context, Local agents or isolated cloud workspaces (beta), macOS app | [zuse.sh](https://zuse.sh/) | ✅ Active | 24 Sep 2026 |
+| ADE-049 | Paperclip | Agent orchestration platform — org chart of AI agents (CEO/CTO/CMO roles), BYO agents (Claude Code/Codex/Cursor/OpenClaw/OpenCode via heartbeats), Goal alignment, Scheduled heartbeats, Per-agent budgets with hard limits, Ticket system with full audit tracing, Governance & board approvals, Self-hosted, MIT licensed | [paperclip.ing](https://paperclip.ing/) | ✅ Active | 25 Sep 2026 |
 
 ---
 
-*Total: 48 ADE*
+*Total: 49 ADE*
