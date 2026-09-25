@@ -57,7 +57,8 @@
 | ADE-045 | Cloud Harness MCP | Remote sandboxed execution environment for coding agents, 52+ MCP tools (shell PTY, patches, LSP symbols, worktrees, git push), Non-root Docker sandboxes, Zero credential leaks (stdin-only GitHub tokens), Self-host VPS or managed cloud, MIT licensed | [harness.agentkit.best](https://harness.agentkit.best/) | ✅ Active | 22 Sep 2026 |
 | ADE-046 | VelaTerm | Dev environment for terminals & coding agents, Recursive split panes (shells + agents in one window), Session tree with live status tracking, 9 first-class agents (Claude Code/Codex/Cursor/OpenCode/Copilot/Antigravity/Cline/Pi/Crush), vopen file tabs with WYSIWYG Markdown, SSH + E2EE remote browser access, Mobile touch layout, Native Tauri 2 (macOS/Linux/Windows) | [velaterm.com](https://velaterm.com/) | ✅ Active | 23 Sep 2026 |
 | ADE-047 | AionUi | Desktop GUI for 20+ coding agents (Claude Code/Gemini CLI/Codex/OpenCode/Goose via ACP & MCP), Multi-agent teams with leader/teammate delegation, Scheduled agent tasks, File & office-document workspace (PPTX/DOCX/XLSX/PDF), Remote WebUI + Telegram/Lark/DingTalk/WeChat integration, Electron + Rust core, Apache-2.0 | [github.com/iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | ✅ Active | 23 Sep 2026 |
+| ADE-048 | Zuse | Open-source desktop workspace for coding agents, 8 first-class agents (Claude Code/Codex/Cursor/Gemini/Grok/OpenCode/Kiro/Pi), Git worktree isolation per task, Persistent sessions with diffs/terminal/checks/PR context, Local agents or isolated cloud workspaces (beta), macOS app | [zuse.sh](https://zuse.sh/) | ✅ Active | 24 Sep 2026 |
 
 ---
 
-*Total: 47 ADE*
+*Total: 48 ADE*
