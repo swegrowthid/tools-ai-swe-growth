@@ -167,6 +167,7 @@
 | P-157 | APIMart | ✅ | ❌ | $0 (pay-as-you-go) | [apimart.ai](https://apimart.ai/) | ✅ Active | 26 Sep 2026 |
 | P-158 | APMix | ✅ | ✅ | $4.99/mo (60M weighted tokens) | [apmix.ai](https://apmix.ai/) | ✅ Active | 01 Oct 2026 |
 | P-159 | Apixo | ✅ | ❌ | $0 (free $0.10 credit) | [apixoai.online](https://apixoai.online/) | ✅ Active | 05 Oct 2026 |
+| P-160 | Abati | ❌ | ✅ | Rp188.000/mo (Claude Pro) | [abati.co.id/claude](https://abati.co.id/claude/) | ✅ Active | 07 Oct 2026 |
 
 ---
 
@@ -182,4 +183,4 @@
 
 ---
 
-*Total: 157 Providers*
+*Total: 158 Providers*
