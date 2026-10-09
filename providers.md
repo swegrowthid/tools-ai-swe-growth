@@ -169,6 +169,7 @@
 | P-159 | Apixo | ✅ | ❌ | $0 (free $0.10 credit) | [apixoai.online](https://apixoai.online/) | ✅ Active | 05 Oct 2026 |
 | P-160 | Abati | ❌ | ✅ | Rp188.000/mo (Claude Pro) | [abati.co.id/claude](https://abati.co.id/claude/) | ✅ Active | 07 Oct 2026 |
 | P-161 | IOI AI | ✅ | ❌ | Rp15.000 (25M token) | [ai.ioi.my.id](https://ai.ioi.my.id/) | ✅ Active | 08 Oct 2026 |
+| P-162 | PowerTokens | ✅ | ❌ | $0 (free 100 credits) | [powertokens.ai](https://www.powertokens.ai/) | ✅ Active | 09 Oct 2026 |
 
 ---
 
@@ -184,4 +185,4 @@
 
 ---
 
-*Total: 159 Providers*
+*Total: 160 Providers*
