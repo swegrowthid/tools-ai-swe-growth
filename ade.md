@@ -61,7 +61,8 @@
 | ADE-049 | Paperclip | Agent orchestration platform — org chart of AI agents (CEO/CTO/CMO roles), BYO agents (Claude Code/Codex/Cursor/OpenClaw/OpenCode via heartbeats), Goal alignment, Scheduled heartbeats, Per-agent budgets with hard limits, Ticket system with full audit tracing, Governance & board approvals, Self-hosted, MIT licensed | [paperclip.ing](https://paperclip.ing/) | ✅ Active | 25 Sep 2026 |
 | ADE-050 | Bentomux | Native window for coding agents, Persistent split-pane PTY workspaces (survive restart), Live agent state (idle/working/blocked), Approval overlay via hook bridge, 22 agent CLIs detected (Claude Code/Codex/Cursor/Gemini/Grok/Copilot/OpenCode/pi), Phone monitor via QR, macOS/Linux/Windows, MIT | [bentomux.takora.dev](https://bentomux.takora.dev/) | ✅ Active | 06 Oct 2026 |
 | ADE-051 | Cloudroom | Desktop app for coding agents (Claude Code/Codex/Pi Agent side by side), Per-agent cloud sandboxes with project copy, Laptop-off execution with saved session history, BYO model accounts (agents connect directly to providers), Isolated sandboxes (no cross-access), Open-source Rust core, self-host or managed hosting, Waitlist (in development) | [cloudroom.dev](https://www.cloudroom.dev/) | ✅ Active | 08 Oct 2026 |
+| ADE-052 | Sim | Open-source AI agent workspace, Build agents via visual canvas/chat/code, 1,000+ integrations + any major LLM (BYO), Knowledge base (Notion/Drive/Confluence/Slack/GitHub sync), Tables + shared file store, Block-by-block run traces, Governance (SSO/SCIM, permission groups, spend controls, audit), CLI for Claude Code/terminal, Self-host Docker/Kubernetes | [sim.ai](https://www.sim.ai/) | ✅ Active | 09 Oct 2026 |
 
 ---
 
-*Total: 51 ADE*
+*Total: 52 ADE*
