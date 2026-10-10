@@ -170,6 +170,7 @@
 | P-160 | Abati | ❌ | ✅ | Rp188.000/mo (Claude Pro) | [abati.co.id/claude](https://abati.co.id/claude/) | ✅ Active | 07 Oct 2026 |
 | P-161 | IOI AI | ✅ | ❌ | Rp15.000 (25M token) | [ai.ioi.my.id](https://ai.ioi.my.id/) | ✅ Active | 08 Oct 2026 |
 | P-162 | PowerTokens | ✅ | ❌ | $0 (free 100 credits) | [powertokens.ai](https://www.powertokens.ai/) | ✅ Active | 09 Oct 2026 |
+| P-163 | OpenGateway | ✅ | ❌ | $0 (prepaid credits) | [opengateway.ai](https://opengateway.ai/) | ✅ Active | 10 Oct 2026 |
 
 ---
 
@@ -185,4 +186,4 @@
 
 ---
 
-*Total: 160 Providers*
+*Total: 161 Providers*
