@@ -171,6 +171,7 @@
 | P-161 | IOI AI | ✅ | ❌ | Rp15.000 (25M token) | [ai.ioi.my.id](https://ai.ioi.my.id/) | ✅ Active | 08 Oct 2026 |
 | P-162 | PowerTokens | ✅ | ❌ | $0 (free 100 credits) | [powertokens.ai](https://www.powertokens.ai/) | ✅ Active | 09 Oct 2026 |
 | P-163 | OpenGateway | ✅ | ❌ | $0 (prepaid credits) | [opengateway.ai](https://opengateway.ai/) | ✅ Active | 10 Oct 2026 |
+| P-164 | DeatCode | ✅ | ❌ | $0 (pay-as-you-go) | [deatcode.com](https://deatcode.com/) | ✅ Active | 11 Oct 2026 |
 
 ---
 
@@ -186,4 +187,4 @@
 
 ---
 
-*Total: 161 Providers*
+*Total: 162 Providers*
