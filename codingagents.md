@@ -64,7 +64,8 @@
 | CA-052 | Crabcode | [crabcode.rs](https://crabcode.rs/) | ✅ Active | 15 Sep 2026 |
 | CA-053 | Unreal Agent | [unreallabs.ai](https://unreallabs.ai/) | ✅ Active | 23 Sep 2026 |
 | CA-054 | OmO | [omo.dev](https://omo.dev/) | ✅ Active | 24 Sep 2026 |
+| CA-055 | Reason | [reasonmachines.com](https://reasonmachines.com/) | ✅ Active | 13 Oct 2026 |
 
 ---
 
-*Total: 54 Coding Agents*
+*Total: 55 Coding Agents*
