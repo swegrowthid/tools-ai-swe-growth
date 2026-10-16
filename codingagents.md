@@ -65,7 +65,8 @@
 | CA-053 | Unreal Agent | [unreallabs.ai](https://unreallabs.ai/) | ✅ Active | 23 Sep 2026 |
 | CA-054 | OmO | [omo.dev](https://omo.dev/) | ✅ Active | 24 Sep 2026 |
 | CA-055 | Reason | [reasonmachines.com](https://reasonmachines.com/) | ✅ Active | 13 Oct 2026 |
+| CA-056 | PenguinHarness | [penguin.ooo](https://penguin.ooo/) | ✅ Active | 16 Oct 2026 |
 
 ---
 
-*Total: 55 Coding Agents*
+*Total: 56 Coding Agents*
