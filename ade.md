@@ -63,7 +63,8 @@
 | ADE-051 | Cloudroom | Desktop app for coding agents (Claude Code/Codex/Pi Agent side by side), Per-agent cloud sandboxes with project copy, Laptop-off execution with saved session history, BYO model accounts (agents connect directly to providers), Isolated sandboxes (no cross-access), Open-source Rust core, self-host or managed hosting, Waitlist (in development) | [cloudroom.dev](https://www.cloudroom.dev/) | ✅ Active | 08 Oct 2026 |
 | ADE-052 | Sim | Open-source AI agent workspace, Build agents via visual canvas/chat/code, 1,000+ integrations + any major LLM (BYO), Knowledge base (Notion/Drive/Confluence/Slack/GitHub sync), Tables + shared file store, Block-by-block run traces, Governance (SSO/SCIM, permission groups, spend controls, audit), CLI for Claude Code/terminal, Self-host Docker/Kubernetes | [sim.ai](https://www.sim.ai/) | ✅ Active | 09 Oct 2026 |
 | ADE-053 | Dash (Blackboard) | Desktop workspace across your machines, Terminal coding agents (Codex/Claude Code) run on the project's host machine, Remote sessions via Dash Web from laptop/phone, Open-weight local models on your own hardware, Built-in Git GUI (diffs/branches/stashes), Web slates with custom preload scripts, Local MCP + hosted Relay MCP, E2E-encrypted connections, macOS/Windows/Linux/Web, Free + Pro CA$20/mo (beta) | [blackboard.sh/dash](https://blackboard.sh/dash/) | ✅ Active | 11 Oct 2026 |
+| ADE-054 | Minimal | Isolated dev/build environments in libkrun microVMs, Stateful durable sessions with loadouts for parallel agent workflows, Agent policies for file system & network access, Environments travel across branches/forks/worktrees, Verified supply chain (SLSA L3, CycloneDX SBOM, VEX), Hosted MCP server + Claude Code skills, Curated vetted package catalog, Open source, public beta, Linux/macOS | [minimal.dev](https://minimal.dev/) | ✅ Active | 16 Oct 2026 |
 
 ---
 
-*Total: 53 ADE*
+*Total: 54 ADE*
