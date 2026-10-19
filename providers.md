@@ -173,6 +173,7 @@
 | P-163 | OpenGateway | ✅ | ❌ | $0 (prepaid credits) | [opengateway.ai](https://opengateway.ai/) | ✅ Active | 10 Oct 2026 |
 | P-164 | DeatCode | ✅ | ❌ | $0 (pay-as-you-go) | [deatcode.com](https://deatcode.com/) | ✅ Active | 11 Oct 2026 |
 | P-165 | OpenScale | ✅ | ❌ | $0 (free $5 credit) | [openscale.so](https://openscale.so/) | ✅ Active | 17 Oct 2026 |
+| P-166 | Refuseless | ✅ | ❌ | $0 (pay-as-you-go) | [refuseless.com](https://refuseless.com/) | ✅ Active | 19 Oct 2026 |
 
 ---
 
@@ -188,4 +189,4 @@
 
 ---
 
-*Total: 163 Providers*
+*Total: 164 Providers*
