@@ -176,6 +176,13 @@
 | P-166 | Refuseless | ✅ | ❌ | $0 (pay-as-you-go) | [refuseless.com](https://refuseless.com/) | ✅ Active | 19 Oct 2026 |
 | P-167 | GismaPro | ✅ | ❌ | Rp10.000 (top up) | [gismapro.com](https://gismapro.com/) | ✅ Active | 23 Oct 2026 |
 | P-168 | Abliteration AI | ✅ | ✅ | $0 (free tier) | [abliteration.ai](https://abliteration.ai/) | ✅ Active | 24 Oct 2026 |
+| P-169 | HacxGPT | ✅ | ✅ | $0 (pay per token, beta) | [hacxgpt.com](https://hacxgpt.com/) | ✅ Active | 24 Oct 2026 |
+| P-170 | Wild West API | ✅ | ❌ | $5 (top up) | [wildwestapi.com](https://wildwestapi.com/) | ✅ Active | 24 Oct 2026 |
+| P-171 | Audn AI | ✅ | ✅ | $0 (pre-paid credits) | [platform.audn.ai](https://platform.audn.ai/) | ✅ Active | 24 Oct 2026 |
+| P-172 | Unrestricted | ✅ | ✅ | $0 (free $0.50 credit) | [unrestricted.sh](https://unrestricted.sh/) | ✅ Active | 24 Oct 2026 |
+| P-173 | Vynaris | ✅ | ✅ | $20/mo | [vynaris.com](https://vynaris.com/) | ✅ Active | 24 Oct 2026 |
+| P-174 | Unlid | ✅ | ❌ | $5 (top up) | [unlid.ai](https://unlid.ai/) | ✅ Active | 24 Oct 2026 |
+| P-175 | Adversarial Inference | ❌ | ✅ | $99/mo (Operator) | [adversarialinference.com](https://adversarialinference.com/) | ✅ Active | 24 Oct 2026 |
 
 ---
 
@@ -191,4 +198,4 @@
 
 ---
 
-*Total: 166 Providers*
+*Total: 173 Providers*
