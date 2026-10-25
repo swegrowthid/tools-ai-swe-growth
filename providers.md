@@ -184,6 +184,7 @@
 | P-174 | Unlid | ✅ | ❌ | $5 (top up) | [unlid.ai](https://unlid.ai/) | ✅ Active | 24 Oct 2026 |
 | P-175 | Adversarial Inference | ❌ | ✅ | $99/mo (Operator) | [adversarialinference.com](https://adversarialinference.com/) | ✅ Active | 24 Oct 2026 |
 | P-176 | Hinoki | ✅ | ❌ | $0 (pay per token) | [hinoki.security](https://hinoki.security/beta) | ✅ Active | 25 Oct 2026 |
+| P-177 | WhatsToken.AI | ✅ | ❌ | $0 (pay-as-you-go) | [whatstoken.ai](https://www.whatstoken.ai/home) | ✅ Active | 25 Oct 2026 |
 
 ---
 
@@ -199,4 +200,4 @@
 
 ---
 
-*Total: 174 Providers*
+*Total: 175 Providers*
