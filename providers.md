@@ -36,7 +36,7 @@
 | P-025 | Z.AI | ✅ | ✅ | $0 (free models) | [z.ai](https://chat.z.ai) | ✅ Active | 22 Jul 2026 |
 | P-026 | OpenAgentic.id | ✅ | ❌ | Rp 0 (free credits) | [openagentic.id](https://openagentic.id/) | ✅ Active | 27 Jul 2026 |
 | P-027 | GMI Cloud | ✅ | ❌ | $0 (pay-as-you-go) | [gmicloud.ai](https://www.gmicloud.ai/en) | ✅ Active | 27 Jul 2026 |
-| P-028 | CrofAI | ✅ | ❌ | $0 (pay-as-you-go) | [crof.ai](https://crof.ai/home) | ✅ Active | 27 Jul 2026 |
+| P-028 | CrofAI | ✅ | ❌ | $0 (pay-as-you-go) | [crof.ai](https://crof.ai/) | ✅ Active | 27 Oct 2026 |
 | P-029 | Cursor | ❌ | ✅ | $20/mo (Pro) | [cursor.com](https://cursor.com/) | ✅ Active | 27 Jul 2026 |
 | P-030 | Ollama | ❌ | ✅ | $0 (Free local) | [ollama.com](https://ollama.com/) | ✅ Active | 27 Jul 2026 |
 | P-031 | OfoxAI | ✅ | ❌ | $0 (pay-as-you-go) | [ofox.ai](https://ofox.ai) | ✅ Active | 28 Jul 2026 |
