@@ -66,7 +66,8 @@
 | ADE-054 | Minimal | Isolated dev/build environments in libkrun microVMs, Stateful durable sessions with loadouts for parallel agent workflows, Agent policies for file system & network access, Environments travel across branches/forks/worktrees, Verified supply chain (SLSA L3, CycloneDX SBOM, VEX), Hosted MCP server + Claude Code skills, Curated vetted package catalog, Open source, public beta, Linux/macOS | [minimal.dev](https://minimal.dev/) | ✅ Active | 16 Oct 2026 |
 | ADE-055 | Sequence | Desktop app running any model + any agent (Claude Code/Codex/local Ollama & LM Studio) side by side, Whiteboard that turns sketches into agent-readable diagrams, Architecture board auto-mapped from the repo, Right-click a box to send it as chat context, /goal long-task planning & step-by-step execution, Local helper models (code analysis/drawing recognition/file finding) that learn on-device, Free & open source MIT, Windows/macOS/Linux | [trysequence.app](https://www.trysequence.app/) | ✅ Active | 18 Oct 2026 |
 | ADE-056 | Portals | Agent fleet orchestration across every Mac from any device, instantly in sync, Works with existing agents (Claude Code/Codex/Cursor/Droid/Pi/Hermes), Alpha waitlist (coming soon to iPhone/iPad/Mac) | [portals.build](https://portals.build/) | ✅ Active | 29 Oct 2026 |
+| ADE-057 | Agentaps | Universal workspace UI for coding harnesses (Claude Code/Codex/Gemini CLI/OpenCode via ACP), Local + SSH sessions, Diff review, Remote control from browser via encrypted Iroh connection, Open source (Apache-2.0) | [agentaps.dev](https://agentaps.dev/) | ✅ Active | 29 Oct 2026 |
 
 ---
 
-*Total: 56 ADE*
+*Total: 57 ADE*
