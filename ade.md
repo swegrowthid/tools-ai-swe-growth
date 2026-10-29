@@ -65,7 +65,8 @@
 | ADE-053 | Dash (Blackboard) | Desktop workspace across your machines, Terminal coding agents (Codex/Claude Code) run on the project's host machine, Remote sessions via Dash Web from laptop/phone, Open-weight local models on your own hardware, Built-in Git GUI (diffs/branches/stashes), Web slates with custom preload scripts, Local MCP + hosted Relay MCP, E2E-encrypted connections, macOS/Windows/Linux/Web, Free + Pro CA$20/mo (beta) | [blackboard.sh/dash](https://blackboard.sh/dash/) | ✅ Active | 11 Oct 2026 |
 | ADE-054 | Minimal | Isolated dev/build environments in libkrun microVMs, Stateful durable sessions with loadouts for parallel agent workflows, Agent policies for file system & network access, Environments travel across branches/forks/worktrees, Verified supply chain (SLSA L3, CycloneDX SBOM, VEX), Hosted MCP server + Claude Code skills, Curated vetted package catalog, Open source, public beta, Linux/macOS | [minimal.dev](https://minimal.dev/) | ✅ Active | 16 Oct 2026 |
 | ADE-055 | Sequence | Desktop app running any model + any agent (Claude Code/Codex/local Ollama & LM Studio) side by side, Whiteboard that turns sketches into agent-readable diagrams, Architecture board auto-mapped from the repo, Right-click a box to send it as chat context, /goal long-task planning & step-by-step execution, Local helper models (code analysis/drawing recognition/file finding) that learn on-device, Free & open source MIT, Windows/macOS/Linux | [trysequence.app](https://www.trysequence.app/) | ✅ Active | 18 Oct 2026 |
+| ADE-056 | Portals | Agent fleet orchestration across every Mac from any device, instantly in sync, Works with existing agents (Claude Code/Codex/Cursor/Droid/Pi/Hermes), Alpha waitlist (coming soon to iPhone/iPad/Mac) | [portals.build](https://portals.build/) | ✅ Active | 29 Oct 2026 |
 
 ---
 
-*Total: 55 ADE*
+*Total: 56 ADE*
