@@ -187,6 +187,7 @@
 | P-177 | WhatsToken.AI | ✅ | ❌ | $0 (pay-as-you-go) | [whatstoken.ai](https://www.whatstoken.ai/home) | ✅ Active | 25 Oct 2026 |
 | P-178 | LarpRouter | ✅ | ❌ | $1 (top up) | [larprouter.com](https://larprouter.com/) | ✅ Active | 26 Oct 2026 |
 | P-179 | Venice AI | ✅ | ✅ | $0 (free tier) | [venice.ai](https://venice.ai/) | ✅ Active | 27 Oct 2026 |
+| P-180 | Flovia | ✅ | ❌ | $0 (free launch allowance) | [flovia.dev](https://flovia.dev/) | ✅ Active | 30 Oct 2026 |
 
 ---
 
@@ -202,4 +203,4 @@
 
 ---
 
-*Total: 177 Providers*
+*Total: 178 Providers*
