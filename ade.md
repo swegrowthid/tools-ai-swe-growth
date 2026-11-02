@@ -67,7 +67,8 @@
 | ADE-055 | Sequence | Desktop app running any model + any agent (Claude Code/Codex/local Ollama & LM Studio) side by side, Whiteboard that turns sketches into agent-readable diagrams, Architecture board auto-mapped from the repo, Right-click a box to send it as chat context, /goal long-task planning & step-by-step execution, Local helper models (code analysis/drawing recognition/file finding) that learn on-device, Free & open source MIT, Windows/macOS/Linux | [trysequence.app](https://www.trysequence.app/) | ✅ Active | 18 Oct 2026 |
 | ADE-056 | Portals | Agent fleet orchestration across every Mac from any device, instantly in sync, Works with existing agents (Claude Code/Codex/Cursor/Droid/Pi/Hermes), Alpha waitlist (coming soon to iPhone/iPad/Mac) | [portals.build](https://portals.build/) | ✅ Active | 29 Oct 2026 |
 | ADE-057 | Agentaps | Universal workspace UI for coding harnesses (Claude Code/Codex/Gemini CLI/OpenCode via ACP), Local + SSH sessions, Diff review, Remote control from browser via encrypted Iroh connection, Open source (Apache-2.0) | [agentaps.dev](https://agentaps.dev/) | ✅ Active | 29 Oct 2026 |
+| ADE-058 | Terax | Terminal-first AI-native dev workspace (terminal + editor + agents + live web preview in one pane), Multi-agent/sub-agent with inline AI Edit Diffs, Git GUI with commit graph, Plans & tasks tracking, BYOK or fully local via LM Studio, Voice input, <10 MB, ~300ms cold start, No telemetry, Open source (Apache-2.0) | [terax.app](https://terax.app/) | ✅ Active | 02 Nov 2026 |
 
 ---
 
-*Total: 57 ADE*
+*Total: 58 ADE*
