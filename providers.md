@@ -189,6 +189,7 @@
 | P-179 | Venice AI | ✅ | ✅ | $0 (free tier) | [venice.ai](https://venice.ai/) | ✅ Active | 27 Oct 2026 |
 | P-180 | Flovia | ✅ | ❌ | $0 (free launch allowance) | [flovia.dev](https://flovia.dev/) | ✅ Active | 30 Oct 2026 |
 | P-181 | TokenHot | ✅ | ❌ | $0 (pay-as-you-go) | [tokenhot.ai](https://tokenhot.ai/) | ✅ Active | 04 Nov 2026 |
+| P-182 | Inco AI | ✅ | ❌ | $0 (pay-as-you-go) | [inco.ai](https://inco.ai/) | ✅ Active | 05 Nov 2026 |
 
 ---
 
@@ -204,4 +205,4 @@
 
 ---
 
-*Total: 179 Providers*
+*Total: 180 Providers*
