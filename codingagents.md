@@ -67,7 +67,8 @@
 | CA-055 | Reason | [reasonmachines.com](https://reasonmachines.com/) | ✅ Active | 13 Oct 2026 |
 | CA-056 | PenguinHarness | [penguin.ooo](https://penguin.ooo/) | ✅ Active | 16 Oct 2026 |
 | CA-057 | DimAgent | [dimagent.com](https://dimagent.com/) | ✅ Active | 04 Nov 2026 |
+| CA-058 | Verdent | [verdent.ai](https://www.verdent.ai/) | ✅ Active | 05 Nov 2026 |
 
 ---
 
-*Total: 57 Coding Agents*
+*Total: 58 Coding Agents*
