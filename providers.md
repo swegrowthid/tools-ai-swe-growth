@@ -190,6 +190,7 @@
 | P-180 | Flovia | ✅ | ❌ | $0 (free launch allowance) | [flovia.dev](https://flovia.dev/) | ✅ Active | 30 Oct 2026 |
 | P-181 | TokenHot | ✅ | ❌ | $0 (pay-as-you-go) | [tokenhot.ai](https://tokenhot.ai/) | ✅ Active | 04 Nov 2026 |
 | P-182 | Inco AI | ✅ | ❌ | $0 (pay-as-you-go) | [inco.ai](https://inco.ai/) | ✅ Active | 05 Nov 2026 |
+| P-183 | Opper AI | ✅ | ❌ | $0 (pay-as-you-go) | [opper.ai](https://opper.ai/) | ✅ Active | 05 Nov 2026 |
 
 ---
 
@@ -205,4 +206,4 @@
 
 ---
 
-*Total: 180 Providers*
+*Total: 181 Providers*
