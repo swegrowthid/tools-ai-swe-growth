@@ -119,7 +119,8 @@
 | ADE-107 | Tegment | Desktop app taking a task to a merged PR, Parallel agents (Claude Code/Codex/Cursor) each in own worktree, Agent status, Second-agent AI code review, PR/checks/issue tabs | [tegment.app](https://tegment.app/) | ✅ Active | 05 Nov 2026 |
 | ADE-108 | Hyperlane | AI-native IDE on the VS Code engine running many coding agents in parallel, Each in its own git worktree, PR panel, Design mode, ACP support, Private beta | [hyperlaneide.com](https://hyperlaneide.com/) | ✅ Active | 05 Nov 2026 |
 | ADE-109 | Jaade | Local macOS ADE, Parallel Claude Code/Codex/OpenCode/Cursor/Pi sessions with terminals/files/diffs, History/resume, Scheduled prompts, Skills/MCP management, Workflows | [jaade.app](https://jaade.app/) | ✅ Active | 05 Nov 2026 |
+| ADE-110 | GitHub Copilot App | Goal-driven Projects coordinating work across repositories, sessions, artifacts & scheduled automations, Copilot Fusion multi-model routing & orchestration, Parallel local/cloud agent sessions in isolated worktrees, Native issue-to-PR/CI workflow, Canvases, MCP & skills, Computer use | [github.com/github/app](https://github.com/github/app) | ✅ Active | 06 Nov 2026 |
 
 ---
 
-*Total: 109 ADE*
+*Total: 110 ADE*
