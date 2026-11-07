@@ -69,7 +69,8 @@
 | CA-057 | DimAgent | [dimagent.com](https://dimagent.com/) | ✅ Active | 04 Nov 2026 |
 | CA-058 | Verdent | [verdent.ai](https://www.verdent.ai/) | ✅ Active | 05 Nov 2026 |
 | CA-059 | Octet | [github.com/skaft-software/octet](https://github.com/skaft-software/octet) | ✅ Active | 07 Nov 2026 |
+| CA-060 | nca | [nca-cli.com](https://nca-cli.com/) | ✅ Active | 07 Nov 2026 |
 
 ---
 
-*Total: 59 Coding Agents*
+*Total: 60 Coding Agents*
