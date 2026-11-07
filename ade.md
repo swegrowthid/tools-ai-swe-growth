@@ -120,7 +120,8 @@
 | ADE-108 | Hyperlane | AI-native IDE on the VS Code engine running many coding agents in parallel, Each in its own git worktree, PR panel, Design mode, ACP support, Private beta | [hyperlaneide.com](https://hyperlaneide.com/) | ✅ Active | 05 Nov 2026 |
 | ADE-109 | Jaade | Local macOS ADE, Parallel Claude Code/Codex/OpenCode/Cursor/Pi sessions with terminals/files/diffs, History/resume, Scheduled prompts, Skills/MCP management, Workflows | [jaade.app](https://jaade.app/) | ✅ Active | 05 Nov 2026 |
 | ADE-110 | GitHub Copilot App | Goal-driven Projects coordinating work across repositories, sessions, artifacts & scheduled automations, Copilot Fusion multi-model routing & orchestration, Parallel local/cloud agent sessions in isolated worktrees, Native issue-to-PR/CI workflow, Canvases, MCP & skills, Computer use | [github.com/github/app](https://github.com/github/app) | ✅ Active | 06 Nov 2026 |
+| ADE-111 | Tycho | Local-first supervisor for coding agents (Codex/Claude/OpenCode/Pi) across projects, Launch/monitor/switch/continue agent sessions from one place, Live status + logs + attention states, Remote UI with delegated child sessions, Durable session records for resume/re-run | [usetycho.com](https://usetycho.com/) | ✅ Active | 07 Nov 2026 |
 
 ---
 
-*Total: 110 ADE*
+*Total: 111 ADE*
