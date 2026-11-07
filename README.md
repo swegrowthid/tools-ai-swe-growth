@@ -10,7 +10,7 @@
 |----|----------|--------|------|
 | P | Providers | 181 | [providers.md](providers.md) |
 | CA | Coding Agents | 59 | [codingagents.md](codingagents.md) |
-| ADE | AI Dev Environment | 109 | [ade.md](ade.md) |
+| ADE | AI Dev Environment | 110 | [ade.md](ade.md) |
 
 ---
 
