@@ -191,6 +191,7 @@
 | P-181 | TokenHot | ✅ | ❌ | $0 (pay-as-you-go) | [tokenhot.ai](https://tokenhot.ai/) | ✅ Active | 04 Nov 2026 |
 | P-182 | Inco AI | ✅ | ❌ | $0 (pay-as-you-go) | [inco.ai](https://inco.ai/) | ✅ Active | 05 Nov 2026 |
 | P-183 | Opper AI | ✅ | ❌ | $0 (pay-as-you-go) | [opper.ai](https://opper.ai/) | ✅ Active | 05 Nov 2026 |
+| P-184 | Fenrir | ✅ | ❌ | Rp100.000 (top up) | [fenrir.lio.id](https://fenrir.lio.id/) | ✅ Active | 08 Nov 2026 |
 
 ---
 
@@ -206,4 +207,4 @@
 
 ---
 
-*Total: 181 Providers*
+*Total: 182 Providers*
