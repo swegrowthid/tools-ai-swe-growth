@@ -192,6 +192,7 @@
 | P-182 | Inco AI | ✅ | ❌ | $0 (pay-as-you-go) | [inco.ai](https://inco.ai/) | ✅ Active | 05 Nov 2026 |
 | P-183 | Opper AI | ✅ | ❌ | $0 (pay-as-you-go) | [opper.ai](https://opper.ai/) | ✅ Active | 05 Nov 2026 |
 | P-184 | Fenrir | ✅ | ❌ | Rp100.000 (top up) | [fenrir.lio.id](https://fenrir.lio.id/) | ✅ Active | 08 Nov 2026 |
+| P-185 | 0.security | ❌ | ✅ | $0 (free tier) | [0.security](https://0.security/) | ✅ Active | 09 Nov 2026 |
 
 ---
 
@@ -207,4 +208,4 @@
 
 ---
 
-*Total: 182 Providers*
+*Total: 183 Providers*
