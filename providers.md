@@ -193,6 +193,7 @@
 | P-183 | Opper AI | ✅ | ❌ | $0 (pay-as-you-go) | [opper.ai](https://opper.ai/) | ✅ Active | 05 Nov 2026 |
 | P-184 | Fenrir | ✅ | ❌ | Rp100.000 (top up) | [fenrir.lio.id](https://fenrir.lio.id/) | ✅ Active | 08 Nov 2026 |
 | P-185 | 0.security | ❌ | ✅ | $0 (free tier) | [0.security](https://0.security/) | ✅ Active | 09 Nov 2026 |
+| P-186 | Alibaba Cloud Model Studio | ✅ | ✅ | Token plan (region-based) | [modelstudio.console.alibabacloud.com](https://modelstudio.console.alibabacloud.com/ap-southeast-1/subscription/overview) | ✅ Active | 10 Nov 2026 |
 
 ---
 
@@ -208,4 +209,4 @@
 
 ---
 
-*Total: 183 Providers*
+*Total: 184 Providers*
