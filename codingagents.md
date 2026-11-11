@@ -71,7 +71,8 @@
 | CA-059 | Octet | [github.com/skaft-software/octet](https://github.com/skaft-software/octet) | ✅ Active | 07 Nov 2026 |
 | CA-060 | nca | [nca-cli.com](https://nca-cli.com/) | ✅ Active | 07 Nov 2026 |
 | CA-061 | 0.security | [0.security](https://0.security/) | ✅ Active | 09 Nov 2026 |
+| CA-062 | ByteAsk | [byteask.ai](https://byteask.ai/) | ✅ Active | 11 Nov 2026 |
 
 ---
 
-*Total: 61 Coding Agents*
+*Total: 62 Coding Agents*
