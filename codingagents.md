@@ -58,7 +58,7 @@
 | CA-046 | Autolith | [github.com/lambda-symbolics/autolith](https://github.com/lambda-symbolics/autolith) | ✅ Active | 03 Sep 2026 |
 | CA-047 | Ara | [ara.so](https://ara.so/) | ✅ Active | 03 Sep 2026 |
 | CA-048 | Perch AI | [perchai.app](https://www.perchai.app/) | ✅ Active | 03 Sep 2026 |
-| CA-049 | Muse Code | [developer.meta.com/muse-code](https://developer.meta.com/ai/products/muse-code/) | ✅ Active | 06 Sep 2026 |
+| CA-049 | Muse Code | [dev.meta.ai/muse-code](https://dev.meta.ai/products/muse-code/) | ✅ Active | 13 Nov 2026 |
 | CA-050 | ExoHarness | [exoharness.ai](https://exoharness.ai/) | ✅ Active | 13 Sep 2026 |
 | CA-051 | nusacode | [nusacode.dev](https://nusacode.dev/) | ✅ Active | 14 Sep 2026 |
 | CA-052 | Crabcode | [crabcode.rs](https://crabcode.rs/) | ✅ Active | 15 Sep 2026 |

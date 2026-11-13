@@ -112,7 +112,7 @@
 | P-101 | GoRouter | ✅ | ❌ | $0 (pay-as-you-go) | [gorouter.app](https://gorouter.app/) | ✅ Active | 03 Sep 2026 |
 | P-102 | JembatanAI | ✅ | ✅ | Rp35rb (Daily) | [jembatanai.com](https://jembatanai.com/) | ✅ Active | 03 Sep 2026 |
 | P-103 | Orvix | ✅ | ❌ | $0 (pay-as-you-go) | [orvix.id](https://platform.orvix.id/) | ✅ Active | 03 Sep 2026 |
-| P-104 | Meta Model API | ✅ | ❌ | $0 (pay-as-you-go) | [developer.meta.com](https://developer.meta.com/ai/products/muse-code/) | ✅ Active | 06 Sep 2026 |
+| P-104 | Meta Model API | ✅ | ❌ | $0 (pay-as-you-go) | [dev.meta.ai](https://dev.meta.ai/products/meta-model-api/) | ✅ Active | 13 Nov 2026 |
 | P-105 | Deka LLM | ✅ | ❌ | $0 (pay-as-you-go) | [cloudeka.id](https://www.cloudeka.id/products/deka-llm/) | ✅ Active | 07 Sep 2026 |
 | P-106 | Netra | ✅ | ❌ | $0 (pay-as-you-go) | [netra.sh](https://netra.sh/) | ✅ Active | 04 Nov 2026 |
 | P-107 | OrcaRouter | ✅ | ✅ | $0 (free tier) | [orcarouter.ai](https://www.orcarouter.ai/) | ✅ Active | 07 Sep 2026 |
