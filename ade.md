@@ -122,7 +122,9 @@
 | ADE-110 | GitHub Copilot App | Goal-driven Projects coordinating work across repositories, sessions, artifacts & scheduled automations, Copilot Fusion multi-model routing & orchestration, Parallel local/cloud agent sessions in isolated worktrees, Native issue-to-PR/CI workflow, Canvases, MCP & skills, Computer use | [github.com/github/app](https://github.com/github/app) | ✅ Active | 06 Nov 2026 |
 | ADE-111 | Tycho | Local-first supervisor for coding agents (Codex/Claude/OpenCode/Pi) across projects, Launch/monitor/switch/continue agent sessions from one place, Live status + logs + attention states, Remote UI with delegated child sessions, Durable session records for resume/re-run | [usetycho.com](https://usetycho.com/) | ✅ Active | 07 Nov 2026 |
 | ADE-112 | Facade Code | Multi-agent orchestrator for VS Code (extension + standalone IDE), Native agent CLIs (Claude Code/Codex) in editor tabs beside your files, Agents message/operate each other via MCP + terminal protocol, Lead-agent delegation across worktrees, Agent Mesh across windows/machines/SSH, Phone coordination via Claude Remote Control, Own accounts & coding plans | [facadecode.com](https://facadecode.com/) | ✅ Active | 08 Nov 2026 |
+| ADE-113 | zz | tmux superset rebuilt in Rust on gpui + libghostty, Import tmux config, Browser panes via CEF (Chromium as a split), Remote hosts on one surface, Claude Code runs inline in panes, Fastest in terminal benchmarks (Metal/Vulkan), Open source (MIT/Apache-2.0), macOS/Linux | [zzmux.sh](https://zzmux.sh/) | ✅ Active | 13 Nov 2026 |
+| ADE-114 | Séance | Linux-native terminal multiplexer for AI coding agents, niri-style scrolling panes with GPU rendering via libghostty, Auto-detects/tracks Claude Code/Codex/Pi sessions (working/idle/waiting), Hook injection, Scriptable via seance ctl Unix socket, AUR package, Open source | [github.com/no1msd/seance](https://github.com/no1msd/seance) | ✅ Active | 13 Nov 2026 |
 
 ---
 
-*Total: 112 ADE*
+*Total: 114 ADE*
