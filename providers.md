@@ -195,6 +195,7 @@
 | P-185 | 0.security | ❌ | ✅ | $0 (free tier) | [0.security](https://0.security/) | ✅ Active | 09 Nov 2026 |
 | P-186 | Alibaba Cloud Model Studio | ✅ | ✅ | Token plan (region-based) | [modelstudio.console.alibabacloud.com](https://modelstudio.console.alibabacloud.com/ap-southeast-1/subscription/overview) | ✅ Active | 10 Nov 2026 |
 | P-187 | DeepRelay | ✅ | ✅ | $0.99/mo (flat plan) | [deeprelay.ai](https://deeprelay.ai/) | ✅ Active | 11 Nov 2026 |
+| P-188 | AbliteratedLLM | ✅ | ❌ | $5 (top up) | [abliteratedllm.dev](https://abliteratedllm.dev/) | ✅ Active | 14 Nov 2026 |
 
 ---
 
@@ -210,4 +211,4 @@
 
 ---
 
-*Total: 185 Providers*
+*Total: 186 Providers*
