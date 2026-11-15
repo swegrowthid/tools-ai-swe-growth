@@ -73,7 +73,8 @@
 | CA-061 | 0.security | [0.security](https://0.security/) | ✅ Active | 09 Nov 2026 |
 | CA-062 | ByteAsk | [byteask.ai](https://byteask.ai/) | ✅ Active | 11 Nov 2026 |
 | CA-063 | Capy | [capy.ai](https://capy.ai/) | ✅ Active | 15 Nov 2026 |
+| CA-064 | Unharnessed | [unharnessed.dev](https://unharnessed.dev/) | ✅ Active | 16 Nov 2026 |
 
 ---
 
-*Total: 63 Coding Agents*
+*Total: 64 Coding Agents*
