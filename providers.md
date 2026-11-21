@@ -197,7 +197,9 @@
 | P-187 | DeepRelay | ✅ | ✅ | $0.99/mo (flat plan) | [deeprelay.ai](https://deeprelay.ai/) | ✅ Active | 11 Nov 2026 |
 | P-188 | Lebrel | ✅ | ✅ | $10 min top up | [lebrel.ai](https://lebrel.ai/) | ✅ Active | 16 Nov 2026 |
 | P-189 | Lyber | ✅ | ✅ | $10 (prepaid credit) | [lyber.ai](https://www.lyber.ai/) | ✅ Active | 18 Nov 2026 |
-| P-190 | AbliteratedLLM | ✅ | ❌ | $5 (top up) | [abliteratedllm.dev](https://abliteratedllm.dev/) | ✅ Active | 14 Nov 2026 |
+| P-190 | Microsoft Foundry | ✅ | ❌ | $0 (pay-as-you-go) | [azure.microsoft.com](https://azure.microsoft.com/en-us/products/ai-foundry/) | ✅ Active | 18 Nov 2026 |
+| P-191 | Foundry Local | ❌ | ❌ | $0 (Free local) | [foundrylocal.ai](https://www.foundrylocal.ai/) | ✅ Active | 18 Nov 2026 |
+| P-192 | AbliteratedLLM | ✅ | ❌ | $5 (top up) | [abliteratedllm.dev](https://abliteratedllm.dev/) | ✅ Active | 14 Nov 2026 |
 
 ---
 
@@ -213,4 +215,4 @@
 
 ---
 
-*Total: 188 Providers*
+*Total: 190 Providers*
