@@ -74,7 +74,8 @@
 | CA-062 | ByteAsk | [byteask.ai](https://byteask.ai/) | ✅ Active | 11 Nov 2026 |
 | CA-063 | Capy | [capy.ai](https://capy.ai/) | ✅ Active | 15 Nov 2026 |
 | CA-064 | Unharnessed | [unharnessed.dev](https://unharnessed.dev/) | ✅ Active | 16 Nov 2026 |
+| CA-065 | DreamCoder | [dreamcoder.ai](https://www.dreamcoder.ai/) | ✅ Active | 21 Nov 2026 |
 
 ---
 
-*Total: 64 Coding Agents*
+*Total: 65 Coding Agents*
