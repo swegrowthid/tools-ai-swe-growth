@@ -126,7 +126,8 @@
 | ADE-114 | Séance | Linux-native terminal multiplexer for AI coding agents, niri-style scrolling panes with GPU rendering via libghostty, Auto-detects/tracks Claude Code/Codex/Pi sessions (working/idle/waiting), Hook injection, Scriptable via seance ctl Unix socket, AUR package, Open source | [github.com/no1msd/seance](https://github.com/no1msd/seance) | ✅ Active | 13 Nov 2026 |
 | ADE-115 | Cindy | Open-source AI agent client (Apache-2.0) bringing Claude Code/Codex/Pi harnesses together in one place, Multi-agent crew with per-role harness + model routing, Switch harness with task history/memory/skills kept, Desktop + phone with remote desktop access, Skill/plugin marketplace + MCP, Worktrees & checkpoints, BYOK/subscriptions or optional managed credits, macOS/Win/Linux/iOS/Android | [cindy.app](https://cindy.app/) | ✅ Active | 14 Nov 2026 |
 | ADE-116 | CrommaCode | Free desktop terminal built around real CLI agents (Claude Code/Codex/Gemini CLI/Cursor CLI/OpenCode), Auto-detects CLIs and installs hooks, Live file tree + Git map + traces of every tool call, Game View playback (5 modes), Subagents with tags/colors, Bees parallel workers on own worktrees (BYOK via local gateway), Local-first, macOS/Win/Linux | [cromma.ai/code](https://cromma.ai/code) | ✅ Active | 14 Nov 2026 |
+| ADE-117 | Orchestrator.inc | Desktop app running Claude Code/Codex and 36 other coding agents in parallel, Each agent in its own git worktree, Orchestrator agent that splits work across workers, Kanban board following every PR through CI and review, CI failures sent back to the agent, iPhone/iPad/Android companion apps, Open source (Apache-2.0), macOS/Win/Linux | [orchestrator.inc](https://orchestrator.inc/) | ✅ Active | 15 Nov 2026 |
 
 ---
 
-*Total: 116 ADE*
+*Total: 117 ADE*
